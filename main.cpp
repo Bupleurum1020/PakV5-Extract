@@ -87,7 +87,7 @@ int main(int argc, char** argv)
 	g_SetRootPath(NULL);
 	g_SetFilePath("");
 	int online = 1;
-	int v5 = g_InitHttpFile("../configHttpFile.ini", online);
+	int v5 = g_InitHttpFile("configHttpFile.ini", online);
 	if (!v5) {
 		std::cout << "bad configHttpFile.ini\n";
 		return -1;
