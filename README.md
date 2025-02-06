@@ -12,4 +12,10 @@ https://jx3v5-update.xoyocdn.com/jx3_v5_mini/vk_mb/configHttpFile.ini
 https://jx3v5-update.xoyocdn.com/jx3_v5_mini/mac_mb/configHttpFile.ini
 https://jx3v5-update.xoyocdn.com/jx3_v5_mini/ios_mb/configHttpFile.ini
 https://jx3v5-update.xoyocdn.com/jx3_v5_mini/android_mb/configHttpFile.ini
+一个不行换个试试
+https://jx3v5-update.xoyocdn.com/
+https://jx3v5hw-update.xoyocdn.com/
+https://jx3v5ali-update.xoyocdn.com/
+https://jx3v5hsyq-update.xoyocdn.com/
+https://jx3v5bsy-update.xoyocdn.com/
 ```
