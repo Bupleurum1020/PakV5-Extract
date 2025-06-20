@@ -19,3 +19,5 @@ https://jx3v5ali-update.xoyocdn.com/
 https://jx3v5hsyq-update.xoyocdn.com/
 https://jx3v5bsy-update.xoyocdn.com/
 ```
+
+- 会自动检测当前目录中有无`filelist.txt`，如有则只解包`filelist.txt`中提到的文件；如无则自动生成一个完整的list，你可以立即关闭程序，手动修改list之后再重新运行以提高效率。
